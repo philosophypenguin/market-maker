@@ -1,5 +1,5 @@
 # Zigzag Market Maker
-
+ 
 This is the reference market maker for Zigzag zksync markets. It works on both Rinkeby and Mainnet.
 
 This market maker uses existing price feeds to set bids and asks for a market. For now, in order to provide liquidity for a market, there must be an existing market with **greater** liquidity listed on Cryptowatch, via either Uniswap or some other centralized exchange. It is crucial that the oracle market have more liquidity than the Zigzag one so that you are not prone to oracle attacks.
