@@ -23,7 +23,7 @@
             "maxSize": 100,
             "minSize": 0.0003,
             "minSpread": 0.0005,
-            "active": true
+            "active": false
         },
         "ETH-DAI": {
             "priceFeedPrimary": "cryptowatch:63533",
@@ -32,7 +32,7 @@
             "maxSize": 100,
             "minSize": 0.0003,
             "minSpread": 0.0005,
-            "active": true
+            "active": false
         },
         "ETH-FRAX": {
             "priceFeedPrimary": "cryptowatch:6631",
@@ -77,7 +77,7 @@
             "maxSize": 100000,
             "minSize": 1,
             "minSpread": 0.0003,
-            "active": true
+            "active": false
         },
         "DAI-USDT": {
             "priceFeedPrimary": "cryptowatch:61475",
@@ -86,7 +86,7 @@
             "maxSize": 100000,
             "minSize": 1,
             "minSpread": 0.0003,
-            "active": true
+            "active": false
         },
         "DAI-USDC": {
             "priceFeedPrimary": "cryptowatch:61485",
@@ -95,7 +95,7 @@
             "maxSize": 100000,
             "minSize": 1,
             "minSpread": 0.0003,
-            "active": true
+            "active": false
         }
     }
 }
